@@ -1,0 +1,6 @@
+https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/append-and-delete/problem?isFullScreen=true (2 Test Cases Not Working)
